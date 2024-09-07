@@ -41,10 +41,10 @@ function Footer(props) {
               </li>              
             </ul>
           </nav>
-          <div className="credits ml-auto">
-            <div className="copyright">
-              &copy; {1900 + new Date().getYear()}, made with{" "}
-              <i className="fa fa-heart heart" /> by Creative Tim
+          <div class="credits ml-auto">
+            <div class="copyright">
+              &copy; {1900 + new Date().getYear()}, UTD{""}
+              <i class="fa fa-heart heart" /> DERECHOS RESERVADOS DANIEL COMPEAN
             </div>
           </div>
         </Row>
